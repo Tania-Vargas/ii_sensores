@@ -3,5 +3,6 @@
 ![Laboratorio](./laboratorio.jpg)
 ### Mediciones en el jardín de la ESIT
 ![Jardin](./jardin.jpg)
-
-Falta un video del samurai moviendose y subir la apk con el codigo
+## Segunda parte
+A continuación se muestra un gif probando como se desplaza el samurai según donde se encuentra el norte y la inclinación del dispositivo.
+![Video](./samurai.gif)
