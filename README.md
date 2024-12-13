@@ -5,5 +5,5 @@
 ![Jardin](./jardin.jpg)
 ## Segunda parte
 A continuación se muestra un gif probando como se desplaza el samurai según donde se encuentra el norte y la inclinación del dispositivo.
-<img src="./samurai.gif" width="1000"/> 
+<img src="./samurai.gif" width="100"/> 
 ![Video](./samurai.gif)
