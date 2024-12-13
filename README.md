@@ -1,3 +1,4 @@
+En este repositorio se encuentran las imagenes y gif con la ejecución. Además de los dos scripts utilizados para el funcionamiento.
 ## Primera parte
 ### Mediciones en el laboratoria
 ![Laboratorio](./laboratorio.jpg)
